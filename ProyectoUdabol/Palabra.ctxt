@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Palabra
+comment1.params=pal\ f\ c\ sen\ tam
+comment1.target=Palabra(java.lang.String,\ int,\ int,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getPalabra()
+comment3.params=
+comment3.target=int\ getFila()
+comment4.params=
+comment4.target=int\ getCol()
+comment5.params=
+comment5.target=int\ getTamanio()
+comment6.params=
+comment6.target=java.lang.String\ getSentido()
+numComments=7

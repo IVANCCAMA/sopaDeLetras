@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SopaDeLetras
+comment1.params=fil\ col
+comment1.target=SopaDeLetras(int,\ int)
+comment10.params=
+comment10.target=java.lang.String\ mostrar()
+comment2.params=pal
+comment2.target=void\ agregarPalabra(Palabra)
+comment3.params=
+comment3.target=void\ agregarLetrasAleatorias()
+comment4.params=filas\ columnas
+comment4.target=boolean\ espacioLibre(int,\ int)
+comment5.params=
+comment5.target=int\ getFilas()
+comment6.params=
+comment6.target=int\ gettCol()
+comment7.params=pal
+comment7.target=java.lang.String\ obtenerPalabra(Palabra)
+comment8.params=pal
+comment8.target=int\ tamanioTotal(Palabra)
+comment9.params=
+comment9.target=java.lang.String\ mostrarPalabras()
+numComments=11

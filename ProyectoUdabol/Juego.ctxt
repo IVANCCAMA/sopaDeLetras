@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=nom\ sopaNueva
+comment1.target=Juego(java.lang.String,\ SopaDeLetras)
+comment2.params=
+comment2.target=java.lang.String\ inicializar()
+comment3.params=palabraNueva
+comment3.target=java.lang.String\ encontrarPalabra(Palabra)
+comment4.params=
+comment4.target=java.lang.String\ mostrarPalabrasEncontradas()
+comment5.params=
+comment5.target=int\ getNumPalEncontradas()
+numComments=6
